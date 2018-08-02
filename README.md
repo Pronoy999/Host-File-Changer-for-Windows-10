@@ -6,4 +6,4 @@ To RUN the Scrip Download all the files and then Copy the "Test.txt" to the Loca
 Then run the Script "Change Host file.bat"
 Then check your ping. 
 
-To Rever back to the Original Host file RUN the Script "Revert.bat"
+To Revert back to the Original Host file RUN the Script "Revert.bat"
